@@ -1,5 +1,6 @@
 body {
   font-family: "Raleway", sans-serif;
+  background-color: antiquewhite;
 }
 
 .nombre {
@@ -25,7 +26,9 @@ body {
   background-size: cover;
   background-position: center;
 }
-
+#Mis-trabajos {
+  background-color: rgb(135, 168, 169);
+}
 /* Contacto */
 
 #Contacto form label {
